@@ -234,7 +234,11 @@
     left: 0;
 }
 
-
+/* Logo Img  */
+.imgSizeLogo{
+    width: 90px;
+    
+}
 
 /*** Img Border ***/
 .img-border {
